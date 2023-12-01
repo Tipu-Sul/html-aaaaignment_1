@@ -1,0 +1,23 @@
+.nav-im{
+    display: flex;
+    height: 32px;
+    padding-left: 0px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav-bg{
+    background-color: rgb(26,24,122);
+}
+/* .icon{
+    width: 20px;
+    height: 20px;
+} */
+.back-banner{
+    height: 100vh;
+    background-image: url("./FashionQuest/resources/background.png");
+    margin: 0px;
+}
+.shop-btn{
+    color: white;
+    background-color: cyan;
+}
